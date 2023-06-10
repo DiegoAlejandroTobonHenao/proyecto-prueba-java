@@ -1,0 +1,20 @@
+
+W
+java:S1854#"<Remove this useless assignment to local variable "response".(©ðð¿üÿÿÿÿ
+H
+java:S1481#"-Remove this unused "response" local variable.(©ðð¿üÿÿÿÿ
+V
+java:S46840"@Replace this persistent entity with a simple POJO or DTO object.(Óð†Ú
+<
+java:S14520"&Remove usage of generic wildcard type.(Óð†Ú
+<
+java:S14526"&Remove usage of generic wildcard type.(Æª³
+A
+java:S1452@"&Remove usage of generic wildcard type.(‡®îøÿÿÿÿ
+T
+java:S1128">Remove this unused import 'com.usco.testspring.dto.CareerDto'.(£¿õÓ
+`
+java:S1128
+"JRemove this unused import 'com.usco.testspring.service.CareerServiceImpl'.(éÝÉ¶
+N
+java:S1128"3Remove this unused import 'javax.validation.Valid'.(æ¤ñ÷úÿÿÿÿ

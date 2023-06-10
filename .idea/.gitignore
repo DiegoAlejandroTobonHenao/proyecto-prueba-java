@@ -1,0 +1,5 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../usco-api-spring-boot\.idea/codestream.xml
